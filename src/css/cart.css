@@ -1,0 +1,32 @@
+.app{
+    font-family: sans-serif;
+}
+
+.baslik{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.total-basket-h3{
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 70px;
+    font-size: 23px;
+}
+
+.cart-list-div{
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+}
+
+.basket-div{
+    width: 18%;
+    border: 3px solid gray;
+    margin-top: 40px;
+    border-radius: 10px;
+    height: 20vh;
+}
+
+
